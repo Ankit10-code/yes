@@ -11,7 +11,7 @@ export default function ScannerPage() {
   const [utrNumber, setUtrNumber] = useState("");
   const [utrSubmitted, setUtrSubmitted] = useState(false);
   const [timeLeft, setTimeLeft] = useState(300); // 5 minutes in seconds
-  const upiId = "ankithdfc2001@ybl"; // Sample UPI ID
+  const upiId = "Rahul7873@upi"; // Sample UPI ID
   const router = useRouter();
 
   const { loggedinUser } = useContext(StoreContext);
