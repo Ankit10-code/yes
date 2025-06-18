@@ -34,5 +34,5 @@ export const assets = {
   item9: "/assets/item9.webp",
   item10: "/assets/item10.webp",
   item11: "/assets/item11.webp",
-  Scanner: "/assets/Scanner.jpg",
+  Scanner: "/assets/216bb7be-856a-4a97-825b-6e1eb1238871.jpg",
 };
